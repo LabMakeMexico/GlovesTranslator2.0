@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/antonio18244/Documents/AndroidProjects/Apps/GlovesTranslator/Application/build/intermediates/res/merged/debug/layout-w720dp-v13/activity_main.xml",
+        "source": "/Users/antonio18244/Documents/AndroidProjects/Apps/GlovesTranslator/Application/src/main/res/layout-w720dp/activity_main.xml"
+    },
+    {
+        "merged": "/Users/antonio18244/Documents/AndroidProjects/Apps/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-w720dp-v13/activity_main.xml",
+        "source": "/Users/antonio18244/Documents/AndroidProjects/Apps/android-BluetoothChat-master/Application/src/main/res/layout-w720dp/activity_main.xml"
+    },
+    {
+        "merged": "/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-w720dp-v13/activity_main.xml",
+        "source": "/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/src/main/res/layout-w720dp/activity_main.xml"
+    }
+]
